@@ -1,0 +1,7 @@
+project_id = "xndvafvqimatybeunpna"
+
+[functions.education-chat]
+verify_jwt = false
+
+[functions.extract-pdf]
+verify_jwt = false
